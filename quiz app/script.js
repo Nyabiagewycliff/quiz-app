@@ -83,3 +83,94 @@ submitButton.addEventListener("click", () => {
     }
   }
 });
+</head>
+    <body>
+        <audio id="applause" src="sounds/applause.mp3"></audio>
+        <audio id="boo" src="sounds/boo.mp3"></audio>
+        <audio id="gasp" src="sounds/gasp.mp3"></audio>
+        <audio id="tada" src="sounds/tada.mp3"></audio>
+        <audio id="victory" src="sounds/victory.mp3"></audio>
+        <audio id="wrong" src="sounds/wrong.mp3"></audio>
+    </body>
+</html></head>
+    <body>
+        <audio id="applause" src="sounds/applause.mp3"></audio>
+        <audio id="boo" src="sounds/boo.mp3"></audio>
+        <audio id="gasp" src="sounds/gasp.mp3"></audio>
+        <audio id="tada" src="sounds/tada.mp3"></audio>
+        <audio id="victory" src="sounds/victory.mp3"></audio>
+        <audio id="wrong" src="sounds/wrong.mp3"></audio>
+    </body>
+</html></head>
+    <body>
+        <audio id="applause" src="sounds/applause.mp3"></audio>
+        <audio id="boo" src="sounds/boo.mp3"></audio>
+        <audio id="gasp" src="sounds/gasp.mp3"></audio>
+        <audio id="tada" src="sounds/tada.mp3"></audio>
+        <audio id="victory" src="sounds/victory.mp3"></audio>
+        <audio id="wrong" src="sounds/wrong.mp3"></audio>
+    </body>
+</html></head>
+    <body>
+        <audio id="applause" src="sounds/applause.mp3"></audio>
+        <audio id="boo" src="sounds/boo.mp3"></audio>
+        <audio id="gasp" src="sounds/gasp.mp3"></audio>
+        <audio id="tada" src="sounds/tada.mp3"></audio>
+        <audio id="victory" src="sounds/victory.mp3"></audio>
+        <audio id="wrong" src="sounds/wrong.mp3"></audio>
+    </body>
+</html></head>
+    <body>
+        <audio id="applause" src="sounds/applause.mp3"></audio>
+        <audio id="boo" src="sounds/boo.mp3"></audio>
+        <audio id="gasp" src="sounds/gasp.mp3"></audio>
+        <audio id="tada" src="sounds/tada.mp3"></audio>
+        <audio id="victory" src="sounds/victory.mp3"></audio>
+        <audio id="wrong" src="sounds/wrong.mp3"></audio>
+    </body>
+</html></head>
+    <body>
+        <audio id="applause" src="sounds/applause.mp3"></audio>
+        <audio id="boo" src="sounds/boo.mp3"></audio>
+        <audio id="gasp" src="sounds/gasp.mp3"></audio>
+        <audio id="tada" src="sounds/tada.mp3"></audio>
+        <audio id="victory" src="sounds/victory.mp3"></audio>
+        <audio id="wrong" src="sounds/wrong.mp3"></audio>
+    </body>
+</html></head>
+    <body>
+        <audio id="applause" src="sounds/applause.mp3"></audio>
+        <audio id="boo" src="sounds/boo.mp3"></audio>
+        <audio id="gasp" src="sounds/gasp.mp3"></audio>
+        <audio id="tada" src="sounds/tada.mp3"></audio>
+        <audio id="victory" src="sounds/victory.mp3"></audio>
+        <audio id="wrong" src="sounds/wrong.mp3"></audio>
+    </body>
+</html></head>
+    <body>
+        <audio id="applause" src="sounds/applause.mp3"></audio>
+        <audio id="boo" src="sounds/boo.mp3"></audio>
+        <audio id="gasp" src="sounds/gasp.mp3"></audio>
+        <audio id="tada" src="sounds/tada.mp3"></audio>
+        <audio id="victory" src="sounds/victory.mp3"></audio>
+        <audio id="wrong" src="sounds/wrong.mp3"></audio>
+    </body>
+</html></head>
+    <body>
+        <audio id="applause" src="sounds/applause.mp3"></audio>
+        <audio id="boo" src="sounds/boo.mp3"></audio>
+        <audio id="gasp" src="sounds/gasp.mp3"></audio>
+        <audio id="tada" src="sounds/tada.mp3"></audio>
+        <audio id="victory" src="sounds/victory.mp3"></audio>
+        <audio id="wrong" src="sounds/wrong.mp3"></audio>
+    </body>
+</html></head>
+    <body>
+        <audio id="applause" src="sounds/applause.mp3"></audio>
+        <audio id="boo" src="sounds/boo.mp3"></audio>
+        <audio id="gasp" src="sounds/gasp.mp3"></audio>
+        <audio id="tada" src="sounds/tada.mp3"></audio>
+        <audio id="victory" src="sounds/victory.mp3"></audio>
+        <audio id="wrong" src="sounds/wrong.mp3"></audio>
+    </body>
+</html>vvvvvvvv
